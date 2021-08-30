@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kirjav
-- 👀 I’m interested in Machine Learning, Gaming, Nature, Crypto - basically everything
+- 👀 I’m interested in machine learning, gaming, nature, crypto - basically everything
 - 🌱 I’m currently learning about linux, cyber security and AI training
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
