@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kirjav
-- 👀 I’m interested in machine learning, gaming, nature, crypto - basically everything
-- 🌱 I’m currently learning about linux, cyber security and AI training
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning a little bit about everything.
+- 🌱 I’m currently working on a personal Discord Bot and a collab project (website). 
 
 <!---
 kirjav/kirjav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
